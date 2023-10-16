@@ -27,7 +27,7 @@ among the possibilities: "bilocal", "evans" and "triangle", by means of a direct
 inflation_test(p,args)
 
 ## inequalities
-To be added. It contains functions to assess whether a given triangle behaviour "p" satisfies the inequality constraints of 
+It contains functions to assess whether a given triangle behaviour "p" satisfies the inequality constraints of 
 interest.
 
 finner_test(p): compatibility with the Finner inequality;
