@@ -19,7 +19,7 @@ b_compatibility(p,args): used to test locality and bilocality of a given behavio
 e_compatiblity(p,args): used to test compatibility of a given behaviour p with the Evans scenario, including 
 interventions if requested;
 
-e_NSI_test(p): test whether p for the Evans scenario is compatible with NSI conditions.
+e_NSI_test(p): test whether p for the Evans scenario is compatible or not with NSI conditions.
 
 ## inflation_codes
 There is a single function here to test the compatibility of a given behaviour "p" with the (inflated) scenario of interest, 
