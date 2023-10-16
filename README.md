@@ -26,7 +26,7 @@ There is a single function here to test the compatibility of a given behaviour "
 among the possibilities: "bilocal", "evans" and "triangle", by means of a direct application of the Inflation package: 
 inflation_test(p,args)
 
-## inequalities_test
+## inequalities
 To be added. It contains functions to assess whether a given triangle behaviour "p" satisfies the inequality constraints of 
 interest.
 
